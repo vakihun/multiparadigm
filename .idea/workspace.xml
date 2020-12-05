@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78f56ed6-735c-4c8a-b8ca-0eb5ed72f58f" name="Default Changelist" comment="" />
+    <list default="true" id="78f56ed6-735c-4c8a-b8ca-0eb5ed72f58f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/languages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/languages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kYOHAo87yQVeKiErxAR0EEWXye" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,10 +35,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
-    <property name="javascript.nodejs.core.library.typings.version" value="14.14.9" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="last_opened_file_path" value="E:/#Backups/Windows 10 - 2020. 11. 29/Documents/WebstormProjects/multiparadigm" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -34,7 +49,7 @@
     <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="src/main.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="src/main.js" working-dir="$PROJECT_DIR$">
+    <configuration name="main.js" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="src/main.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
   </component>
@@ -48,88 +63,24 @@
       <updated>1605873968434</updated>
       <workItem from="1605873969755" duration="670000" />
       <workItem from="1606034292578" duration="10398000" />
+      <workItem from="1607071251243" duration="2943000" />
+      <workItem from="1607153787677" duration="7803000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606034788948">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606034788948" />
-    <state x="2660" y="274" key="FileChooserDialogImpl" timestamp="1606034770937">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2660" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606034770937" />
-    <state x="2724" y="439" key="Github.CreateGistDialog" timestamp="1606045696465">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="2724" y="439" key="Github.CreateGistDialog/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045696465" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1606045823644">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823644" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1606045823644">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823644" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1606045823644">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823644" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1606045823644">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823644" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1606045823645">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823645" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1606045823645">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823645" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1606045823645">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823645" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1606045823645">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823645" />
-    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1606045823645">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823645" />
-    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.center/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.left/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
-    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1606045823646">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.right/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1606045823646" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
