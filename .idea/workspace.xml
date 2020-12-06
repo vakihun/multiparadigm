@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="78f56ed6-735c-4c8a-b8ca-0eb5ed72f58f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/languages.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/languages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vitalets/google-translate-api/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +56,7 @@
       <workItem from="1605873969755" duration="670000" />
       <workItem from="1606034292578" duration="10398000" />
       <workItem from="1607071251243" duration="2943000" />
-      <workItem from="1607153787677" duration="7803000" />
+      <workItem from="1607153787677" duration="9092000" />
     </task>
     <servers />
   </component>
